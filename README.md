@@ -1,4 +1,4 @@
-# rentabiliweb-stdlib ![License badge][license-img] [![Puppet badge][puppet-img]][puppet-url]
+# dalenyslib ![License badge][license-img] [![Puppet badge][puppet-img]][puppet-url]
 
 #### Table of Contents
 
@@ -37,5 +37,5 @@ Thanks https://github.com/puppetlabs/ for help to write this README :)
 ```
 
 [license-img]: https://img.shields.io/badge/license-ISC-blue.svg
-[puppet-img]: https://img.shields.io/puppetforge/dt/rentabiliweb/stdlib.svg
-[puppet-url]: https://forge.puppetlabs.com/rentabiliweb/stdlib
+[puppet-img]: https://img.shields.io/puppetforge/dt/rentabiliweb/dalenyslib.svg
+[puppet-url]: https://forge.puppetlabs.com/rentabiliweb/dalenyslib
