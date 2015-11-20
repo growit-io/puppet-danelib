@@ -1,6 +1,6 @@
 {
   "name": "dalenys-danelib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Dalenys",
   "license": "ISC",
   "summary": "Dalenys lib module",
@@ -14,7 +14,7 @@
 	{ "operatingsystem": "RedHat", "operatingsystemrelease": [ "5", "6" ] },
 	{ "operatingsystem": "CentOS", "operatingsystemrelease": [ "6" ] }
   ],
-  "tags": [ "stdlib", "dalenyslib", "dalenys", "rentabiliweb" ],
+  "tags": [ "stdlib", "danelib" ],
   "requirements": [
     { "name": "puppet", "version_requirement": "3.x" }
   ]
