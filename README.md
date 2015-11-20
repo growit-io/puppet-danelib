@@ -1,4 +1,4 @@
-# dalenyslib ![License badge][license-img] [![Puppet badge][puppet-img]][puppet-url]
+# dalenys-danelib ![License badge][license-img] [![Puppet badge][puppet-img]][puppet-url]
 
 #### Table of Contents
 
@@ -18,7 +18,7 @@
 
 ## Development
 
-Rentabiliweb  modules on  the  Puppet  Forge are  open  projects, and  community
+Dalenys  modules  on   the  Puppet  Forge  are  open   projects,  and  community
 contributions are  essential for keeping them  great.  We can't access  the huge
 number  of   platforms  and  myriad   of  hardware,  software,   and  deployment
 configurations that  Puppet is intended to  serve so feel free  to contribute on
@@ -37,5 +37,5 @@ Thanks https://github.com/puppetlabs/ for help to write this README :)
 ```
 
 [license-img]: https://img.shields.io/badge/license-ISC-blue.svg
-[puppet-img]: https://img.shields.io/puppetforge/dt/rentabiliweb/dalenyslib.svg
-[puppet-url]: https://forge.puppetlabs.com/rentabiliweb/dalenyslib
+[puppet-img]: https://img.shields.io/puppetforge/dt/dalenys/danelib.svg
+[puppet-url]: https://forge.puppetlabs.com/dalenys/danelib

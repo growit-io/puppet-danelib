@@ -1,6 +1,6 @@
 # == Class: dalenyslib
 #
-class dalenyslib {
+class danelib {
   case $::operatingsystem {
     'Debian' : { $service_provider = 'debian' }
     'Ubuntu' : { $service_provider = 'init' }

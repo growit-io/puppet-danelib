@@ -1,20 +1,20 @@
 {
-  "name": "dalenys-dalenyslib",
-  "version": "1.0.1",
+  "name": "dalenys-danelib",
+  "version": "1.0.0",
   "author": "Dalenys",
   "license": "ISC",
   "summary": "Dalenys lib module",
-  "source": "https://github.com/dalenys/puppet-dalenyslib",
+  "source": "https://github.com/dalenys/puppet-danelib",
   "dependencies": [],
-  "project_page": "https://github.com/dalenys/puppet-dalenyslib",
-  "issues_url": "https://github.com/dalenys/puppet-dalenyslib/issues",
+  "project_page": "https://github.com/dalenys/puppet-danelib",
+  "issues_url": "https://github.com/dalenys/puppet-danelib/issues",
   "operatingsystem_support": [
    	{ "operatingsystem": "Debian", "operatingsystemrelease": [ "5", "6", "7", "8" ] },
 	{ "operatingsystem": "Ubuntu", "operatingsystemrelease": [ "12.04", "12.10", "13.04", "13.10", "14.04", "14.10", "15.04" ] },
 	{ "operatingsystem": "RedHat", "operatingsystemrelease": [ "5", "6" ] },
 	{ "operatingsystem": "CentOS", "operatingsystemrelease": [ "6" ] }
   ],
-  "tags": [ "stdlib", "dalenyslib","dalenys", "rentabiliweb" ],
+  "tags": [ "stdlib", "dalenyslib", "dalenys", "rentabiliweb" ],
   "requirements": [
     { "name": "puppet", "version_requirement": "3.x" }
   ]
