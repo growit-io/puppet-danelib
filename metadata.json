@@ -1,9 +1,9 @@
 {
   "name": "dalenys-danelib",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "author": "Dalenys",
   "license": "ISC",
-  "summary": "Dalenys lib module",
+  "summary": "Dalenys stdlib (aka danelib) module",
   "source": "https://github.com/dalenys/puppet-danelib",
   "dependencies": [],
   "project_page": "https://github.com/dalenys/puppet-danelib",
