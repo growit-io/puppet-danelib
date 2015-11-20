@@ -3,6 +3,7 @@
 	<name>danelib</name>
 	<comment></comment>
 	<projects>
+		<project>ladvd</project>
 	</projects>
 	<buildSpec>
 	</buildSpec>
