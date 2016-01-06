@@ -1,4 +1,4 @@
-# dalenys-danelib ![License badge][license-img] [![Puppet badge][puppet-img]][puppet-url]
+# puppet-danelib ![License badge][license-img] [![Puppet badge][puppet-img]][puppet-url]
 
 #### Table of Contents
 
