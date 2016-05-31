@@ -1,9 +1,13 @@
 #!/usr/bin/ruby
 
+require 'resolv'
+
 Facter.add('ipaddress_main') do
   setcode do
     fqdn = Facter.value(:fqdn)
-    %x{dig +short -t A #{fqdn} | grep -E '^[0-9.]+$'}.chomp
+    resolv = Resolv::DNS.new
+    resolv.getaddress(fqdn)
   end
 end
+
 # EOF
